@@ -37,7 +37,9 @@ library(fontawesome) # from github: https://github.com/rstudio/fontawesome
 library(DiagrammeR)
 ```
 class: inverse, left, middle
-background-image: url(https://github.com/bmcphail05/AMAP_Brownbag/blob/0ac06249a681c1e1e1ee529a93ef9c62a1af2194/images/china_white.png?raw=true) 
+background-image: url(https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china_white.png?raw=true)
+background-position: right bottom
+background-size: 50%
 
 <br>
 # The Ecological Effects of Religion on Health and Mortality in China
