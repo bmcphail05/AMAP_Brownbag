@@ -51,21 +51,23 @@ Department of Sociology | Purdue University
 March 30, 2021
 
 ---
-background-image: url(https://github.com/bmcphail05/AMAP_Brownbag/blob/0ac06249a681c1e1e1ee529a93ef9c62a1af2194/images/china_white.png) 
 
-# One slide.
-
-pull-left[
-...
-![](image-link)
+## One slide.
+.pull-left[
+![](https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/berkman2000.jpg?raw=true)
 ]
+
 .pull-right[
 ![](https://www.researchgate.net/publication/237200852/figure/fig3/AS:406849846300680@1474011970545/Theoretical-model-of-causal-pathways-to-physical-health-for-Western-monotheistic.png)
 ]
-This is a test slide just to see what this lookz like yo!
----
 
-# Another slide.
+.pull-left[.center[Socio-ecological Model of Place Effects on Health (Berkman et al. 2000)]]
+.pull-right[.center[Religion/Spirituality & Physical Health Model (Koenig et al. 2012)]]
+---
+class: center, middle
+
+### Is the religious environment of Chinese prefectures associated with individual-level health outcomes among middle-age and older adults in China?
+
 
 ---
 class: right, middle
