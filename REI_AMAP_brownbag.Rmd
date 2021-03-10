@@ -1,0 +1,69 @@
+---
+title: "The Ecological Effects of Religion on Health and Mortality in China"
+subtitle: 
+author: "Brian L. McPhail<br><span style = 'font-size: 50%;'>Department of Sociology | Purdue University</span>"
+date: "<span style = 'font-size: 75%;'>AMAP Brownbag, March 31, 2021 </span>"
+output:
+  xaringan::moon_reader:
+    css: [xaringan-themer.css, extra.css]
+    seal: false
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      ratio: '16:9'
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: ["left", "middle", "inverse"]
+---
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_mono_accent(
+  base_color = "#073f51",
+  header_font_google = google_font("Source Sans Pro"),
+  text_font_google   = google_font("Source Serif Pro", "400", "400i"),
+  code_font_google   = google_font("Source Code Pro")
+)
+```
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(knitr)
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+# options(knitr.table.format = "html")
+library(tidyverse)
+library(babynames)
+library(fontawesome) # from github: https://github.com/rstudio/fontawesome
+library(DiagrammeR)
+```
+class: inverse, left, middle
+<br>
+# The Ecological Effects of Religion on Health and Mortality in China
+<br>
+<br>
+.large[Brian L. McPhail]  
+Department of Sociology | Purdue University  
+<br>AMAP Brownbag    
+March 30, 2021
+
+---
+# One slide.
+
+This is a test slide just to see what this lookz like yo!
+---
+
+# Another slide.
+
+---
+class: right, middle
+
+<img class="circle" src="https://github.com/bmcphail05.png" width="150px"/>
+
+### Find me at...
+
+[`r fa(name = "paper-plane")` bmcphail@purdue.edu](mailto:bmcphail@purdue.edu)  
+[`r fa(name = "link")` bmcphail.com](https://bmcphail.com)  
+[`r fa(name = "twitter")` @bmcphail](http://twitter.com/bmcphail)  
+
+
+
