@@ -65,10 +65,22 @@ March 30, 2021
 .pull-right[.center[Religion/Spirituality & Physical Health Model (Koenig et al. 2012)]]
 ---
 class: center, middle
-background-image: tranparentColor, url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true"); 
+background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
 background-size: contain
 
-### Is the religious environment of Chinese prefectures associated with individual-level health outcomes among middle-age and older adults in China?
+### How is the religious environment associated with individual-level health outcomes among middle-age and older adults in China?
+
+---
+## One slide.
+
+.pull-left[
+![](https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/mortality.png?raw=true)
+]
+--
+.pull-right[
+![](https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/dom_rel.png?raw=true)
+]
+
 
 
 ---
