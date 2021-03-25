@@ -11,7 +11,9 @@
   font-size: 120%;
 }
 
-
+.tiny {
+  font-size: 66%;
+}
 .remark-slide-content {
     font-size: 1.3rem
 }

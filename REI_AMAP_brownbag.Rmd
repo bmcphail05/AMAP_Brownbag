@@ -67,12 +67,12 @@ class: middle
 
 class: middle
 
-.pull-left[.center[Mortality Rate]
+.pull-left[.center[Mortality Rate 2001]
 ![](https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/mortality.png?raw=true)
 ]
 --
 
-.pull-right[.center[Predominant Religion]
+.pull-right[.center[Predominant Religion 2004]
 ![](https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/dom_rel.png?raw=true)
 ]
 
@@ -98,7 +98,12 @@ Religious Environment
 ---
 class: center, middle 
 
-<img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/nested_data.png?raw=true" width = "75%" />
+<img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/nested_data.png?raw=true" width = "100%" />
+
+.footer[.left[.tiny[
+1 Administrative subdivisions of China's provinces    
+2 Online Spiritual Atlas of China (OSAC) [https://purr.purdue.edu/publications/3210/2 ](https://purr.purdue.edu/publications/3210/2)  
+3 China Health and Retirement Longitudinal Study (CHARLS) [http://charls.pku.edu.cn/ ](http://charls.pku.edu.cn/)]]]
 
 ---
 class: right, middle
