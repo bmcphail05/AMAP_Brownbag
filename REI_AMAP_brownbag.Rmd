@@ -67,12 +67,12 @@ class: middle
 
 class: middle
 
-.pull-left[.center[Mortality Rate 2001]
+.pull-left[.center[.large[Mortality Rate 2001]]
 ![](https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/mortality.png?raw=true)
 ]
 --
 
-.pull-right[.center[Predominant Religion 2004]
+.pull-right[.center[.large[Predominant Religion 2004]]
 ![](https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/dom_rel.png?raw=true)
 ]
 
@@ -84,18 +84,6 @@ background-size: contain
 ## How is the religious environment associated with individual-level health outcomes among middle-age and older adults in China?
 
 ---
-## Data
-#### Dependent Variable  
-Measures of Individual Health 
-
- 
-#### Independent Variable
-Religious Environment
-- approximate using religious sites from the [Online Spiritual Atlas of China (OSAC)](https://purr.purdue.edu/publications/3210/versions?v=2)
-- \# of sites per 10k people (for each of China's 5 major religions)
-
-
----
 class: center, middle 
 
 <img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/nested_data.png?raw=true" width = "100%" />
@@ -104,6 +92,11 @@ class: center, middle
 1 Administrative subdivisions of China's provinces    
 2 Online Spiritual Atlas of China (OSAC) [https://purr.purdue.edu/publications/3210/2 ](https://purr.purdue.edu/publications/3210/2)  
 3 China Health and Retirement Longitudinal Study (CHARLS) [http://charls.pku.edu.cn/ ](http://charls.pku.edu.cn/)]]]
+
+---
+class: left, middle
+### Mixed-effects ordered logistic regression models
+
 
 ---
 class: right, middle
