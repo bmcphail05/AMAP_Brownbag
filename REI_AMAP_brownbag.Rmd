@@ -98,8 +98,8 @@ class: center, middle
 ---
 class: center
 
-**Self-rated Health in Prefectures where the Predominant Religion is...***
-<img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/srh_bypref.jpg?raw=true" width = "100%" />
+**Self-rated Health in Prefectures where the Predominant Religion is...**
+<img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/srh_bypref.jpg?raw=true" width = "80%" />
 
 ---
 class: left, middle
