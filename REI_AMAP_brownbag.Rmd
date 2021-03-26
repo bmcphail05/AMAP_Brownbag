@@ -68,11 +68,13 @@ class: middle
 class: middle
 
 .pull-left[.center[.large[Mortality Rate 2001]]
+<br>
 ![](https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/mortality.png?raw=true)
 ]
 --
 
 .pull-right[.center[.large[Predominant Religion 2004]]
+<br>
 ![](https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/dom_rel.png?raw=true)
 ]
 
@@ -92,6 +94,12 @@ class: center, middle
 1 Administrative subdivisions of China's provinces    
 2 Online Spiritual Atlas of China (OSAC) [https://purr.purdue.edu/publications/3210/2 ](https://purr.purdue.edu/publications/3210/2)  
 3 China Health and Retirement Longitudinal Study (CHARLS) [http://charls.pku.edu.cn/ ](http://charls.pku.edu.cn/)]]]
+
+---
+class: center
+
+**Self-rated Health in Prefectures where the Predominant Religion is...***
+<img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/srh_bypref.jpg?raw=true" width = "100%" />
 
 ---
 class: left, middle
