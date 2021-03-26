@@ -67,13 +67,13 @@ class: middle
 
 class: middle
 
-.pull-left[.center[.large[Mortality Rate 2001]]
+.pull-left[.center[.large[**Mortality Rate 2001**]]
 <br>
 ![](https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/mortality.png?raw=true)
 ]
 --
 
-.pull-right[.center[.large[Predominant Religion 2004]]
+.pull-right[.center[.large[**Predominant Religion 2004**]]
 <br>
 ![](https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/dom_rel.png?raw=true)
 ]
@@ -104,12 +104,35 @@ class: center
 ---
 class: center
 
-**Distribution of Sites for  Prefectures where the Predominant Religion is...**
+**Distribution of Sites, by Religion **
 <img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/sites_stripplot.jpg?raw=true" width = "80%" />
 
 ---
 class: left, middle
 ### Mixed-effects ordered logistic regression models
+- Random intercept models with 4-levels of data
+- Likelihood-ratio tests suggest four-level models are preferred over the three-level and two-level models. 
+
+- Variance Components Model indicates that only ...
+- icc = .05
+- Correlation of self-rated health among respondents in the same prefecture is only .05.
+
+---
+**Predicted Probability of Self-Rated Heath**
+* Mixed Effects Ordered Logit Model
+<img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/dao_marginsplot.jpg?raw=true" width = "80%" />
+
+---
+class: left, middle
+**Average Marginal Effects**
+             |      Poor       Fair       Good  Very Good 
+-------------+--------------------------------------------
+dao10k       |                                            
+         +SD |    -0.016     -0.004      0.008      0.013 
+     p-value |     0.008      0.038      0.009      0.012 
+
+----
+
 
 
 ---
