@@ -102,6 +102,12 @@ class: center
 <img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/srh_bypref.jpg?raw=true" width = "80%" />
 
 ---
+class: center
+
+**Distribution of Sites for  Prefectures where the Predominant Religion is...**
+<img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/sites_stripplot.jpg?raw=true" width = "80%" />
+
+---
 class: left, middle
 ### Mixed-effects ordered logistic regression models
 
