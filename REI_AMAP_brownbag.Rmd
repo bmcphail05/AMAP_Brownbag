@@ -109,13 +109,24 @@ class: center
 
 ---
 class: left, middle
-### Mixed-effects ordered logistic regression models
-- Random intercept models with 4-levels of data
-- Likelihood-ratio tests suggest four-level models are preferred over the three-level and two-level models. 
+### Mixed-effects Ordered Logistic Regression Models
+- Ordered dependent variable (4 categories of self-rated health: poor, fair, good, very good)  
+  - Brant tests indicates no violation of the parallel regression assumption (i.e., ordered relationship exists between IVs and DV)
+- Random intercept models with 4 levels of data (prefecture, community, household, individual)
+  - Likelihood-ratio tests indicate that  four-level models are preferred over the three-level and two-level models. 
+  - These models account for the nested/clustered structure of the data. 
 
-- Variance Components Model indicates that only ...
-- icc = .05
-- Correlation of self-rated health among respondents in the same prefecture is only .05.
+---
+class: left, middle
+### Variance Components Model
+- Intraclass Correlation Coeficient (ICC) = .05   
+  - Correlation of self-rated health among respondents in the same prefecture is only .05.
+  - Individuals' self-rated health within prefectures are not much more similar to each other than observations across prefectures
+
+---
+class:center
+**Odds Ratios from Mixed Random Intercept Models Predicting Self-Rated Heath**  
+<img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/or_table.jpg?raw=true" width = "80%" />
 
 ---
 class:center
