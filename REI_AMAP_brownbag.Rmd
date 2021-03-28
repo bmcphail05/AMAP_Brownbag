@@ -93,7 +93,7 @@ class: center, middle
 .footer[.left[.tiny[
 1 Administrative subdivisions of China's provinces    
 2 Online Spiritual Atlas of China (OSAC) [https://purr.purdue.edu/publications/3210/2 ](https://purr.purdue.edu/publications/3210/2)  
-3 China Health and Retirement Longitudinal Study (CHARLS) [http://charls.pku.edu.cn/ ](http://charls.pku.edu.cn/)]]]
+3 Individual religious affiliation only measured in 2014 Life History questionnaire; China Health and Retirement Longitudinal Study (CHARLS) [http://charls.pku.edu.cn/ ](http://charls.pku.edu.cn/)]]]
 
 ---
 class: center
@@ -118,21 +118,22 @@ class: left, middle
 - Correlation of self-rated health among respondents in the same prefecture is only .05.
 
 ---
-**Predicted Probability of Self-Rated Heath**
-* Mixed Effects Ordered Logit Model
+class:center
+**Predicted Probabilities of Self-Rated Heath**  
+*Mixed Effects Ordered Logit Model*
 <img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/dao_marginsplot.jpg?raw=true" width = "80%" />
 
 ---
-class: left, middle
-**Average Marginal Effects**
-             |      Poor       Fair       Good  Very Good 
--------------+--------------------------------------------
-dao10k       |                                            
-         +SD |    -0.016     -0.004      0.008      0.013 
-     p-value |     0.008      0.038      0.009      0.012 
+class: center
+**Average Marginal Effects of Daoist Sites**
 
-----
+|   |Poor   | Fair  | Good  | Very Good |
+|--:|---:|--:|--:|--:|
+|  +SD |    -0.016  |   -0.004   |   0.008   |   0.013 |
+|   *p* |     0.008  |    0.038   |   0.009    |  0.012 |
 
+---
+### 
 
 
 ---
