@@ -126,11 +126,18 @@ class: left, middle
 ---
 class:center
 **Odds Ratios from Mixed Random Intercept Models Predicting Self-Rated Heath**  
-<img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/or_table.jpg?raw=true" width = "80%" />
+<img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/or_table.png?raw=true" width = "80%" />
+
 
 ---
 class:center
-**Predicted Probabilities of Self-Rated Heath**  
+**Predicted Probabilities of Self-Rated Heath - Muslim sites**  
+*Mixed Effects Ordered Logit Model*
+<img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/isl_marginsplot.jpg?raw=true" width = "80%" />
+
+---
+class:center
+**Predicted Probabilities of Self-Rated Heath - Daoist sites**  
 *Mixed Effects Ordered Logit Model*
 <img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/dao_marginsplot.jpg?raw=true" width = "80%" />
 
