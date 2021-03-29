@@ -122,52 +122,65 @@ class: left, middle
 
 ---
 class:center
-**Odds Ratios from Mixed Random Intercept Models Predicting Self-Rated Heath**  
+**Odds Ratios from Random Intercept Ordered Logit Models Predicting Self-Rated Heath**  
 <img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/or_table.png?raw=true" width = "80%" />
 
 ---
 class:center
 **Predicted Probabilities of Self-Rated Heath - Muslim sites**  
-*Mixed Effects Ordered Logit Model*
+*Random Intercept Ordered Logit Model*
 <img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/isl_marginsplot.jpg?raw=true" width = "80%" />
 
 ---
 class:center
 **Predicted Probabilities of Self-Rated Heath - Daoist sites**  
-*Mixed Effects Ordered Logit Model*
+*Random Intercept Ordered Logit Model*
 <img src= "https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/dao_marginsplot.jpg?raw=true" width = "80%" />
 
 ---
 class: center, middle
-**Average Marginal Effects of Daoist Sites**
 
-|   |Poor   | Fair  | Good  | Very Good |
-|--:|---:|--:|--:|--:|
-|  +SD |    -0.022 |   -0.007   |   0.011   |   0.019 |
-|   *p* |     0.024  |    0.094   |   0.028    |  0.040 |
+**Average Marginal Effects of Religious Sites on Self-Rated Health**
+
+| | Islam | Daoism |
+|:--|---:|--:|
+| |  +SD | +SD |
+|Poor | 0.015<sup>+</sup> | -0.022<sup>*</sup> | 
+|Fair | 0.003<sup>*</sup> |   -0.007<sup>+</sup> | 
+|Good | -0.007<sup>+</sup> |   0.011<sup>*</sup> | 
+|Very Good |  -0.011<sup>+</sup> | 0.019<sup>*</sup> |
 
 <br>
-<br>
-**Average Marginal Effects of Muslim Sites**
-
-|   |Poor   | Fair  | Good  | Very Good |
-|--:|---:|--:|--:|--:|
-|  +SD |    0.015  |   0.003   |   -0.007   |   -0.011 |
-|   *p* |     0.068  |    0.025   |   0.059    |  0.051 |
-<br>
-.footer[.left[.tiny[Note: AMEs calculated from Model 6 using observed values]]]
+.footer[.center[.tiny[Note: <sup>+</sup> *p* < .10, <sup>\*</sup> *p* < .05; AMEs calculated from Model 6 using observed values]]]
 
 ---
 class: left, middle
+background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
+background-size: contain
+
+
+### Preliminary Conclusions
+
+Increased concentration of Muslim sites in Chinese prefectures is associated with lower levels of self-rated health among older Chinese adults. 
+
+Increased concentration of Daoist sites in Chinese prefectures is associated with higher levels of self-rated health among older Chinese adults.
+
+
+---
+class: left, middle
+background-image: url("https://github.com/bmcphail05/AMAP_Brownbag/blob/main/images/china-grey.png?raw=true")
+background-size: contain
+
 
 ### Future Analyses
-- Additional measures of health for older adults
-  - Activities of Daily Living (ADLs) & Instrumental Activities of Daily Living (IADLs) (scales)
-  - Chronic Illnesses (count)
+- Additional measures of health for older adults in CHARLS
+  - Scales of functional limitations: Activities of Daily Living (ADLs) & Instrumental Activities of Daily Living (IADLs)
+  - Count of Chronic Illnesses
+  
+- Different effects by individual religious affiliation?
+  - Data limitations: only 8.5% report affiliation (5.8% are Buddhist)
 
-- Mediation analyses
-  - Possible mechanisms 
-
+- Mediation analyses to test explanatory mechanisms and social pathways that link these associations (i.e., social support, social participation, health behaviors).
 
 ---
 class: right, middle
