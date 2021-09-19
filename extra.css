@@ -18,3 +18,7 @@
     font-size: 1.3rem
 }
 
+
+.transparent {
+  color: rgba(0, 0, 0, 0.5);
+}
